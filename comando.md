@@ -31,3 +31,4 @@ esta wea en especifco
 ```js
 '../'
 ```
+la tenei q modificar a donde apunte la carpeta sino no va a funcionar logicamente homoerectus
